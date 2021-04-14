@@ -12,8 +12,9 @@
   <param name="odom_model_type" value="diff-corrected"/>
   <param name="base_frame_id" value="robot_footprint"/>
   <param name="global_frame_id" value="map"/>
-  <param name="initial_pose_x" value="86.869"/>
-  <param name="initial_pose_y" value="55.944"/>	
+  <param name="initial_pose_x" value="-2.46"/>
+  <param name="initial_pose_y" value="-2.36"/>	
+ <param name="initial_pose_a" value="-1.57"/>	
   <param name="min_particles" value="50"/>
   <param name="max_particles" value="200"/>
   <param name="update_min_a" value="0.1"/>
